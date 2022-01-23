@@ -1,15 +1,10 @@
-## 欢迎来到kaijie的成长日志
+# 没办法，一切都是为了钱、车、房、女人
 
-You can use the [editor on GitHub](https://github.com/kaijieyao/kaijieyao.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## java学习日志
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 现在用的语言叫Markdown
 
-### Markdown
-
-
-# Header 1
-## Header 2
-### Header 3
+这种语言是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。 它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。
 
 - Bulleted
 - List
